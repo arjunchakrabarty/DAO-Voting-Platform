@@ -96,7 +96,7 @@ Because this repository was restructured for the monorepo submission, each level
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/Be-bibek/DAO-Governance-web3.git
+git clone https://https://github.com/arjunchakrabarty/DAO-Voting-Platform.git
 cd DAO-Governance-web3
 ```
 
